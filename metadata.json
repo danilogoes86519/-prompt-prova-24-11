@@ -1,0 +1,7 @@
+{
+  "name": "Vitalidade Automação",
+  "description": "Uma interface de automação residencial acessível e controlada por voz via Gemini Live, projetada para auxiliar pessoas com mobilidade reduzida.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
